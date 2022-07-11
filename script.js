@@ -3,7 +3,7 @@ let date = new Date();
 // this variable defines the users premium status
 premium = 1;
 
-// inject call buttom
+// inject call button
 const btn = document.getElementById("anrufknopf");
 btn.style.color = "white";
 btn.style.width = "720px";
